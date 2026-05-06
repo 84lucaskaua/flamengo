@@ -284,6 +284,9 @@ i {
   padding: 54px 0;
   gap: 24px;
   color: #FFF;
+ background-image: linear-gradient(to bottom, rgba(6, 18, 30, 0.1), #06121e), url("./assets/33036593-high-scaled-aspect-ratio-512-320.webp");
+ height: 100%;
+ background-size: cover;
 }
 
 .footer-icons {
